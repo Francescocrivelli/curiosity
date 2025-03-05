@@ -1,0 +1,3 @@
+[console_scripts]
+gattctl = gattctl:main
+
