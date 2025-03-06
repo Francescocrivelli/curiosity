@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "collection_start": "2025-03-05T19:23:19.207300",
+  "collection_end": "2025-03-05T19:23:24.237865",
+  "duration_seconds": 5.030576467514038,
+  "camera_settings": {
+    "width": 640,
+    "height": 480,
+    "fps": 30
+  },
+  "sensor_settings": {
+    "frequency_hz": 20,
+    "continuous_collection": true,
+    "movement_interval": 1.0
+  },
+  "sensor_samples": 50
+}
